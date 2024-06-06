@@ -1,4 +1,4 @@
-# Imitation Learning algorithms for surgical task automation
+# Visuomotor Policy Learning for Task Automation of Surgical Robot
 
 
 #### 
@@ -50,7 +50,7 @@ To set up a new terminal, run:
     conda activate sur
     cd <path to sur repo>
 
-### Simulated experiments (LEGACY table-top ALOHA environments)
+### Simulated experiments 
 To collect data
     
     # Collect expert demonstration
